@@ -8,7 +8,7 @@ Wp-api Jamsite source plugin. Fetches site json data from Wordpress.
 
 ## Cache
 
-For caching downloaded data may be serialized and saved cache directory as json files.
+For caching downloaded data may be serialized and saved in cache directory as json files.
 
 ## Options
 
