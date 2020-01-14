@@ -1,6 +1,6 @@
 # plugin-source-wp
 
-Wp-api Jamsite source plugin. Fetches site json data from Wordpress.
+Wordpress Jamsite source plugin. Fetches site json data from Wordpress.
 
 ## Install
 
