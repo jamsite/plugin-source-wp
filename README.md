@@ -12,5 +12,5 @@ For caching downloaded data may be serialized and saved in cache directory as js
 
 ## Options
 
-- `refreshCache [default:false]` - refetch data and update to cache
+- `refreshCache [default:false]` - refetch data and update cache
 - `useCache [default:true]` - enable cache
