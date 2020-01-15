@@ -14,3 +14,5 @@ Downloaded data may be serialized and saved in cache directory as json files.
 
 - `refreshCache [default:false]` - refetch data and update cache
 - `useCache [default:true]` - enable cache
+- `endpoint` - wp rest-api endpoint
+- `exclude` - array of content types to exclude
