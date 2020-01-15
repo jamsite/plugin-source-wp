@@ -1,7 +1,7 @@
 {
   "name": "@jamsite/plugin-source-wp",
   "version": "0.0.1",
-  "description": "Source data from Wordpress using rest api",
+  "description": "Read Wordpress site data with rest api",
   "main": "./lib",
   "directories": {
     "lib": "lib",
