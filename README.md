@@ -8,7 +8,7 @@ Wordpress Jamsite source plugin. Reads Wordpress site data with rest api.
 
 ## Cache
 
-For caching downloaded data may be serialized and saved in cache directory as json files.
+Downloaded data may be serialized and saved in cache directory as json files.
 
 ## Options
 
